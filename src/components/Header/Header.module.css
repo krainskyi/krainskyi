@@ -1,0 +1,13 @@
+.header {
+    grid-area: h;
+    background: red;
+    display: flex;
+    align-content: flex-end;
+}
+.header div {
+    margin: 20px;
+}
+.header img {
+    width: 150px;
+    height: 100%;
+}

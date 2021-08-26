@@ -1,0 +1,27 @@
+ img{
+    width: 100%;
+}
+ .item{
+    color: aliceblue;
+}
+.item img {
+    width: 50px;
+    border-radius: 20px;
+}
+.item .like {
+    color: #b2e35f;
+}
+.item span{
+    margin: 5px;
+}
+.like .likeCount {
+    color: yellow;
+    font-weight: bold;
+}
+.item .disLike{
+    color: #f56a6a;
+}
+.like .disLikeCount {
+    color: red;
+    font-weight: bold;
+}
